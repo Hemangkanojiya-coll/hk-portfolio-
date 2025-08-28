@@ -29,6 +29,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 
 import appim from './assets/work_logo/fitflexapp.jpeg';
 import webim from './assets/work_logo/webaim.png';
+import laravel from './assets/tech_logo/laravel.webp';
 
 import scloogo from './assets/education_logo/salogo.jpeg';
 import ssccslog from './assets/education_logo/ssccslog.png';
@@ -53,6 +54,7 @@ export const SkillsInfo = [
       { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
       { name: 'Firebase', logo: firebaseLogo },
+      { name: 'Laravel', logo: laravel },
      
     ],
   },
